@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/esmeralda-inmobiliario/static/css/main.484617d7.css",
-    "main.js": "/esmeralda-inmobiliario/static/js/main.936eee82.js",
+    "main.css": "/esmeralda-inmobiliario/static/css/main.ac7afafe.css",
+    "main.js": "/esmeralda-inmobiliario/static/js/main.7db39555.js",
     "static/js/453.90f3f5e2.chunk.js": "/esmeralda-inmobiliario/static/js/453.90f3f5e2.chunk.js",
     "static/media/img1.jpg": "/esmeralda-inmobiliario/static/media/img1.f4b6c6fa50e1642f765b.jpg",
+    "static/media/logo.svg": "/esmeralda-inmobiliario/static/media/logo.4fbe2cb4d7ac2b2d26007ebb53160abb.svg",
     "static/media/area_icon.svg": "/esmeralda-inmobiliario/static/media/area_icon.d5962af937a31d4be3da551d9634e7d5.svg",
     "static/media/whatsapp_icon.svg": "/esmeralda-inmobiliario/static/media/whatsapp_icon.a02d5990fcf6a10c9a29f8ed5e15aef9.svg",
     "static/media/Right-Arrow.svg": "/esmeralda-inmobiliario/static/media/Right-Arrow.349184c09845fdc4186bc5091169f19c.svg",
     "static/media/Left-Arrow.svg": "/esmeralda-inmobiliario/static/media/Left-Arrow.6d708e0d217844ef1bad5e0039163bfb.svg",
+    "static/media/tag_icon.svg": "/esmeralda-inmobiliario/static/media/tag_icon.b2c7fafc1e4d103e56e762170585d0bf.svg",
     "index.html": "/esmeralda-inmobiliario/index.html",
     "static/media/mail_icon.svg": "/esmeralda-inmobiliario/static/media/mail_icon.89d93b70cd26dcc817812bcf7782f541.svg",
     "static/media/contact-arrow.svg": "/esmeralda-inmobiliario/static/media/contact-arrow.24a00e9b462b25a154b3c1878b898389.svg",
-    "main.484617d7.css.map": "/esmeralda-inmobiliario/static/css/main.484617d7.css.map",
-    "main.936eee82.js.map": "/esmeralda-inmobiliario/static/js/main.936eee82.js.map",
+    "main.ac7afafe.css.map": "/esmeralda-inmobiliario/static/css/main.ac7afafe.css.map",
+    "main.7db39555.js.map": "/esmeralda-inmobiliario/static/js/main.7db39555.js.map",
     "453.90f3f5e2.chunk.js.map": "/esmeralda-inmobiliario/static/js/453.90f3f5e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.484617d7.css",
-    "static/js/main.936eee82.js"
+    "static/css/main.ac7afafe.css",
+    "static/js/main.7db39555.js"
   ]
 }
