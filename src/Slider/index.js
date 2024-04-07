@@ -1,5 +1,5 @@
 import React from "react";
-import imgSlider from "../img/img1.jpg";
+import imgSlider from "../assets/asset1/img1.jpg";
 
 const Slider = () => {
   return (
@@ -8,9 +8,6 @@ const Slider = () => {
     slider-container"
     >
       <div className="slider">
-        <div className="slide">
-          <img src={imgSlider} className="img-Slider"></img>
-        </div>
         <div className="slide">
           <img src={imgSlider} className="img-Slider"></img>
         </div>

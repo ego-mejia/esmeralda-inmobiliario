@@ -1,18 +1,22 @@
 import React from "react";
-import whatsappIcon from "../Icons/whatsapp_icon.svg";
-import mailIcon from "../Icons/mail_icon.svg";
+import whatsappIcon from "../assets/Icons/whatsapp_icon.svg";
+import mailIcon from "../assets/Icons/mail_icon.svg";
 
 const Footer = () => {
   return (
     <>
       <section className="navbar flex justify-between items-center border-b-2 border-secondary-gray  bg-footer-text flex-col mt-10">
         <div className="max-w-6xl w-full bg-none">
-          <img src={"logo.svg"} alt="Logo" className="w-52 mt-6" />
+          <img
+            src={require("../assets/logo.svg").default}
+            alt="Logo"
+            className="w-52 mt-6"
+          />
           <p className="my-5 text-secondary-text">
             Asesor inmobiliario certificado, asociado AMPI.
           </p>
-          <button className="flex mb-11 bg-none">
-            <div className="flex  rounded-full py-1 bg-white px-4 mr-3">
+          <button className="flex mb-11 bg-none flex-wrap">
+            <div className="flex  rounded-full py-1 bg-white px-4 mr-3 mb-3">
               <img
                 src={whatsappIcon}
                 alt="Logo"

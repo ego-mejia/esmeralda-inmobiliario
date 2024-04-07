@@ -1,7 +1,7 @@
 import React from "react";
-import mainImage from "../img/img1.jpg";
-import leftArrow from "../Icons/Left-Arrow.svg";
-import rightArrow from "../Icons/Right-Arrow.svg";
+import mainImage from "../assets/asset1/img1.jpg";
+import leftArrow from "../assets/Icons/Left-Arrow.svg";
+import rightArrow from "../assets/Icons/Right-Arrow.svg";
 
 const MainImage = () => {
   return (
